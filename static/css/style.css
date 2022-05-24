@@ -1,0 +1,21 @@
+
+  body {
+      color: #f7f7f7;
+    }
+  
+  .hero {
+    position: relative;
+    height: 500px;
+    padding: 20px;
+    margin: 0;
+    background: black;
+    background-image: url("../images/nasa.jpg");
+    background-attachment: fixed;
+    background-position: bottom center;
+    background-size: cover;
+    border-bottom-style: groove; 
+    border-bottom-color: rgb(0, 8, 90, 0.7);}
+  
+    
+    
+    
